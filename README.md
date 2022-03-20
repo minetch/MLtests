@@ -4,4 +4,4 @@
 
 ##modules
 
-`pip install sckit-learn`
+`pip install sckit-learn pandas`
